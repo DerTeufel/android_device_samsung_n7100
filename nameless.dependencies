@@ -6,10 +6,10 @@
         "revision": "android-4.4"
     },
     {
-        "remote": "nameless",
-        "repository": "android_kernel_samsung_smdk4412",
-        "target_path": "kernel/samsung/smdk4412",
-        "revision": "android-4.4"
+        "remote": "github",
+        "repository": "DerTeufel/android_kernel_samsung_smdk4412",
+        "target_path": "kernel/samsung/devil_smdk4412",
+        "revision": "nameless-2.0"
     },
     {
         "remote": "github",

@@ -28,7 +28,7 @@ TARGET_SPECIFIC_HEADER_PATH := device/samsung/n7100/include
 BOARD_BLUETOOTH_BDROID_BUILDCFG_INCLUDE_DIR := device/samsung/n7100/bluetooth
 
 # Kernel
-TARGET_KERNEL_SOURCE := kernel/samsung/smdk4412
+TARGET_KERNEL_SOURCE := kernel/samsung/devil_smdk4412
 TARGET_KERNEL_CONFIG := custom_n7100_defconfig
 
 # Selinux
